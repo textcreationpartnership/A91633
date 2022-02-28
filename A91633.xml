@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A winding-sheet for the rebels at Westminster. A grave as deep as Hell for Fairfax and his Army. With a whip and a bell, for the Satanicall hyrelings of the Synod. / By W.R.</title>
+            <author>W. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91633</idno>
+            <idno type="STC">Wing R102</idno>
+            <idno type="STC">Thomason E449_39</idno>
+            <idno type="EEBO-CITATION">99864559</idno>
+            <idno type="PROQUEST">99864559</idno>
+            <idno type="VID">161882</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161882)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A winding-sheet for the rebels at Westminster. A grave as deep as Hell for Fairfax and his Army. With a whip and a bell, for the Satanicall hyrelings of the Synod. / By W.R.</title>
+                  <author>W. R.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the Year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Partly in verse.</note>
+                  <note>Annotation on Thomason copy: "June 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161882:1" rendition="simple:additions"/>
+            <p>A WINDING-SHEET For the Rebels at <hi>Weſtminſter.</hi>
+            </p>
+            <p>A Grave as deep as Hell, for FAIRFAX and his Army.</p>
+            <p>With a Whip and a Bell, for the Satanicall hyrelings of the Synod.</p>
+            <p>By <hi>W. R.</hi>
+            </p>
+            <lg>
+               <head>To the Junto, whom ſome call Parliament.</head>
+               <l>Thus the Fates, do hold it meet,</l>
+               <l>I ſhould Weave your <hi>Winding-Sheet:</hi>
+               </l>
+               <l>
+                  <hi>Arachne,</hi> could not better doe,</l>
+               <l>Gainſt <hi>Pallas,</hi> then I'le act'gainſt you.</l>
+            </lg>
+            <lg>
+               <head>To the Sectaries, or the Army.</head>
+               <l>Blood and Fury, Death, and Hell,</l>
+               <l>All miſchiefs, you out-paralell:</l>
+               <l>(You Saints) yet act the worſt of Evils,</l>
+               <l>You are not Men, but crimſon Devils.</l>
+            </lg>
+            <lg>
+               <head>To the Factious Miniſtery, who ſome call a Synod.</head>
+               <l>Sell us Religion, wee will pay,</l>
+               <l>To each foure Shillings every day:</l>
+               <l>
+                  <hi>Geneva</hi> Goblins, who to pleaſe,</l>
+               <l>Your luſts, have ſtoln St. <hi>Peters</hi> Keyes:</l>
+               <l>Who Preacht down Biſhops, and their Rents,</l>
+               <l>That you might be <hi>Non-reſidents:</hi>
+               </l>
+               <l>Thus I whip You in my ire,</l>
+               <l>More due then Your foure ſhillings hires.</l>
+            </lg>
+            <p>
+               <add>June 27</add> Printed in the Year. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161882:2"/>
+            <pb n="1" facs="tcp:161882:2"/>
+            <head>A WINDING SHEET, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ith your leave, and without your leave <hi>Gentlemen</hi> of the <hi>Houſes,</hi> though I hold it beſeneſſe to inſult over <hi>dying Rebels,</hi> (for ſo you are now in my eſteeme) yet I dare affirme it but excellent <hi>Iuſtice,</hi> to make you ſenſible of your <hi>villanies,</hi> ere you viſit the <hi>Wormes.</hi>
+            </p>
+            <q>
+               <l>And let you know, the utmoſt of your fate,</l>
+               <l>Since now Rebellion is growne out of date.</l>
+            </q>
+            <p>
+               <hi>Moſt high and mighty States, moſt bleſſed Reformers, moſt zea<g ref="char:EOLhyphen"/>lous Saints, moſt renowned Heroes, most ſanctified Patriots, and most religious Rebels;</hi> alas how comes it about, that of late you are fallen into ſuch contempt, and are diſregarded by your <hi>boa<g ref="char:EOLhyphen"/>red Vaſſailes,</hi> the <hi>Cowardly beſotted Engliſh Nation;</hi> what is the reaſon that your Almighty Power, hath ſo ſoone left you, and is lookt upon as <hi>invalid;</hi> how comes it to paſſe that your <hi>Votes, Orders,</hi> and <hi>Declarations,</hi> are no other then the ſport of <hi>fooles,</hi> and the <hi>mockery of Men,</hi> who could have Prognoſticated, ſet <hi>Wharton</hi> aſide, that you ſhould ſo ſoone tumble from the top of your great<g ref="char:EOLhyphen"/>neſſe; I had thought that no humane ſtrength could have forced you from your thrones, but it ought to be no wonder to wiſe men, for—
+<q>
+                  <l>Had they ere read, in any Hiſtory,</l>
+                  <l>That Rebels who combin'd 'gainſt Majeſty,</l>
+                  <l>Were their ends good, their Prince vicious and Ill;</l>
+                  <l>Had hee inſlav'd the People to his will;</l>
+                  <l>Were all good Lawes perverted, were his mind</l>
+                  <l>To luſt, ambition, Sacriledge inclin'd,</l>
+                  <l>And that to remedy, their harſh anoy</l>
+                  <l>Then threatning their whole Nation to deſtroy.</l>
+                  <l>Some private men tooke armes againſt their King</l>
+                  <l>Out of intent, their loſt Lawes back to bring.</l>
+                  <l>Had they ere thriv'd in their Rebellious Vow,</l>
+                  <l>Even from the firſt Creation, untill now;</l>
+                  <l>Some might have hop't theſe Rebels ne're ſhould fall,</l>
+                  <l>Till they had caus'd a Ruine generall.</l>
+               </q>
+            </p>
+            <pb facs="tcp:161882:3"/>
+            <p> Moſt <hi>gracious</hi> moſt <hi>famous,</hi> and moſt <hi>wicked States,</hi> what would you give now that you had never runne your ſelves ſo farre into your Rebellious <hi>laborinth;</hi> you ſay you fought at firſt for to pur<g ref="char:EOLhyphen"/>chaſe a <hi>Reformation,</hi> I ſay you fight now for your <hi>heads,</hi> ſee how the <hi>ſceano</hi> is changed, we know that when you firſt Convened, you drew your Swords againſt your lawfull <hi>Prince,</hi> with an intent to pull downe the <hi>Biſhops,</hi> and <hi>fathers</hi> of the <hi>Church,</hi> the maſters of <hi>Order</hi> and <hi>Diſcipline,</hi> to the end you might introduce your <hi>novell</hi> and <hi>Soule killing Independency,</hi> by the advancing of the <hi>factious mercenary Cleargie</hi> in their roome, <hi>Creatures</hi> ſo <hi>flexible,</hi> that you might put any ſtamp you pleaſed upon them, ſuch are your <hi>hyre<g ref="char:EOLhyphen"/>lings</hi> of the <hi>Synod,</hi> and in particular, <hi>Marſhall, Vines, Nie; Dell, Peters, Strong, Gouge</hi> and the reſt of the <hi>Apoſtated Levites,</hi> wee know that you wreſted the <hi>Kings</hi> Sword out of his hand, &amp; made your ſelves <hi>heires</hi> to the <hi>Militia,</hi> that you might put your <hi>bitts</hi> and <hi>bridles</hi> in the mouthes of the People, and then ride at your plea<g ref="char:EOLhyphen"/>ſures; wee know that you <hi>Declared</hi> againſt <hi>Monopolies,</hi> and <hi>Ship-money,</hi> with an intent in ſtead of them to ſet up your never <hi>dying Excize,</hi> your <hi>Contributions,</hi> and <hi>free quarter;</hi> wee know that you complied with the <hi>Scots,</hi> onely for your owne private advantage, and took their <hi>Covenant,</hi> only for a <hi>cloake,</hi> that ſo you might grow great by their ayd and <hi>fool</hi> that <hi>Nation</hi> into a good opinion of you, wee know that you are <hi>ſeemingly zealous,</hi> but <hi>really wicked</hi> out<g ref="char:EOLhyphen"/>wardly <hi>Stoickes,</hi> but inwardly <hi>Epicures;</hi> wee know that you have this ſeven yeares, ſolemnly given <hi>thankes</hi> for <hi>blood,</hi> and cordially <hi>faſted</hi> for <hi>ſtrife</hi> and <hi>debate,</hi> and to conclude, wee well know that you voted no further <hi>addreſſes</hi> to his <hi>Majeſty,</hi> in hope that now you had brought to paſſe your <hi>projections,</hi> and that you might pro<g ref="char:EOLhyphen"/>ceed to confirme your <hi>Anarchy,</hi> and to make your ſelves a <hi>free</hi> and <hi>abſolute State,</hi> commanding the <hi>Perſons</hi> and <hi>purſes</hi> of the <hi>people</hi> at your pleaſures, and for ever to <hi>inſlave</hi> and <hi>vaſſalize</hi> us and our <hi>Po<g ref="char:EOLhyphen"/>ſterity,</hi> and wee know that you gulled his <hi>Majeſty</hi> in the <hi>Ile of Wight,</hi> with an intent, to ſecure his Perſon from the eyes of the People, and there to <hi>murther him</hi> at your pleaſures.</p>
+            <p>And becauſe wee know this, and to ſumme up the ſenſe of all, that you are the moſt <hi>wretched, bloody, barbarous, incorrigible</hi>—, that ever met together, therfore, it is that we now have a firme in<g ref="char:EOLhyphen"/>tention, to diſingage you, and in liew of your worthy acts fairly to cut your <hi>threats,</hi> and to ceaze on your <hi>eſtates</hi> the incomes wherof we will imploy thus:</p>
+            <pb n="3" facs="tcp:161882:3"/>
+            <p> Your <hi>lands</hi> which you have <hi>forfeited</hi> to his Majeſty for your <hi>Rebellion,</hi> ſhall be divided amongſt thoſe widdowes, whoſe huſ<g ref="char:EOLhyphen"/>bands you have ſhot to death, and hanged for their <hi>Loyalty</hi> to their <hi>King,</hi> and to the heirs for ever of <hi>Tomkins, Challoner, Bur<g ref="char:EOLhyphen"/>leigh,</hi> and the reſt, your <hi>goods,</hi> and <hi>moveables,</hi> we will diſtribute amongſt the people, who have this many years, been <hi>robbed,</hi> and <hi>plundered</hi> by you, and your <hi>Agents,</hi> and this aſſure your ſelves, we will not faile to doe and that ſuddenly, if the ten thouſand gallant Souldiers now under Sir <hi>Marmaduke Langdale;</hi> thirty thouſand <hi>Scots,</hi> ſeven thouſand under the conduct of the <hi>Earl of Norwich,</hi> &amp; Sir <hi>Charles Lucas,</hi> twenty thouſand in <hi>London,</hi> (who wait but an opportunity) and ten thouſand of <hi>French,</hi> and <hi>Engliſh,</hi> now with the <hi>Prince of Wales</hi> can doe it; therefore make up your accompts with heaven ſpeedily, for both the <hi>starres</hi> and <hi>men</hi> have deſigned your deaths, and the more to aſſure you, that I ſpeak truth, as alſo (that if it be poſſible) you may be <hi>penitent,</hi> I ſend you this,—
+<q>
+                  <lg>
+                     <head>WINDING SHEET.</head>
+                     <l>Traytors, you that have undone,</l>
+                     <l>All order, and Religion:</l>
+                     <l>You that have ſold, your God for gaine,</l>
+                     <l>And have abus'd your Soveraign:</l>
+                     <l>Wrap you in this fatal ſhrowd,</l>
+                     <l>No flowers or coffin is allow'd:</l>
+                     <l>This ſheet is woven of stern yre,</l>
+                     <l>Such as maintains the unſcen fire:</l>
+                     <l>Next of vengeance, black and fell,</l>
+                     <l>Such as threw Lucifer to hell:</l>
+                     <l>Next of the rage of God and man,</l>
+                     <l>Such as are threw the Puritan:</l>
+                     <l>Then of the cries, and wofull teares</l>
+                     <l>Of widowes, orphanes young of yeares,</l>
+                     <l>Whoſe fathers grim death ceaz'd upon,</l>
+                     <l>While they oppos'd Rebellion:</l>
+                     <l>'Tis painted with vermillion fraud,</l>
+                     <l>The blood of Strafford, and of Laud:</l>
+                     <l>His Majeſty, hath tide the knot,</l>
+                     <l>Of this, wherein your names muſt rot:</l>
+                     <l>Quickly therefore put it on,</l>
+                     <l>And ſail to your perdition.</l>
+                  </lg>
+               </q>
+            </p>
+            <pb n="4" facs="tcp:161882:4"/>
+            <p> So farewell old <hi>Parliament,</hi> now I come to you Sir <hi>Thomas Fairfax,</hi> ô my <hi>Lord Fairfax,</hi> I ſhould have ſaid, or rather <hi>King Tom,</hi> the <hi>Arch-Traytor</hi> of <hi>England,</hi> and the <hi>Rake-ſhames</hi> under your command, whom you lead about to <hi>murther,</hi> and <hi>rob</hi> the people.</p>
+            <p>
+               <hi>Vile villain,</hi> whoſe name ſhall be an hiſſing to Poſterity, had it not beene better for thee to have made uſe of the opportunity, which <hi>heaven</hi> once put into thy hands, and have brought the <hi>King</hi> from <hi>Holdenby</hi> to <hi>London</hi> rather then have followed the luſter of <hi>Cromwels noſe,</hi> and cheat him into the <hi>Iſle of Wight,</hi> didſt thou not proteſt at <hi>New-market</hi> and St. <hi>Al-bones,</hi> that thou wouldeſt uſe all meanes, for the <hi>Kings reſtauration,</hi> and that thou refuſedſt to disband thine Army on ſuch pious grounds, hadſt not thou and <hi>Nol</hi> private conference with his <hi>Majeſty,</hi> and did you not pawne your <hi>Soules,</hi> that nothing ſhould be acted which ſhould be thought prejudiciall to his <hi>Intereſt,</hi> and yet afterward when you were re<g ref="char:EOLhyphen"/>conciled to the <hi>Rebels,</hi> who call themſelves a <hi>Parliament,</hi> did not act againſt him, it ſeemes the <hi>Almighty</hi> would not permit you to wipe off your <hi>Staine:</hi> but that as you had <hi>wickedly</hi> begun ſo you ſhould trayterouſly perſiſt, to the end a <hi>hatchet</hi> may cure the one of the <hi>gowt,</hi> and an <hi>halter</hi> ſend the other to <hi>hell.</hi>
+            </p>
+            <p>And for you of the <hi>Army</hi> who tearme your ſelves <hi>Saints,</hi> who are a mixt multitude, a people of all <hi>Profeſſions,</hi> and of more <hi>reli<g ref="char:EOLhyphen"/>gions,</hi> to whom <hi>War</hi> is become a <hi>trade,</hi> and who never mention <hi>Peace</hi> when you give thanks for your <hi>plundered diet,</hi> we know you are the <hi>Scumme</hi> of your Nation, you have fought ſeven yeares to dethrone your <hi>King,</hi> &amp; now you are in Arms to inſlave your ſelvs and your <hi>nation,</hi> your <hi>cruelties</hi> and <hi>bloodie practiſes</hi> exceed, all that ever wild fancie hath yet feigned, while like <hi>unnaturall Sons,</hi> you feed even upon the entrailes of your <hi>mother,</hi> the <hi>Common-wealth of England,</hi> do you know what you fight for, I am confident if you did you would not have been ſo <hi>ſtupid,</hi> as ſtill to goe on in your un<g ref="char:EOLhyphen"/>heard of <hi>outrages,</hi> I will tell you; you fight for to ſupport their greatnes who are the moſt perfect <hi>atheiſts,</hi> that ever were on earth, who have ruinated and brought to nothing, the moſt <hi>illuſtrious</hi> and <hi>flouriſhing Church,</hi> that ever was ſince the <hi>primitive times,</hi> who have no more <hi>conſcience,</hi> then <hi>Cannibals,</hi> and no more <hi>piety</hi> then <hi>Patricides, Religion</hi> is to them a meer <hi>Chimera,</hi> and they hate pu<g ref="char:EOLhyphen"/>rity,
+<pb n="5" facs="tcp:161882:4"/>as much as uniformity, you fight for thoſe who inſatiately thirſt for <hi>Chriſtian blood,</hi> and who make it their chief delight to <hi>murder</hi> and <hi>kill</hi> thoſe that are <hi>Innocent</hi> &amp; <hi>Loyall,</hi> you fight for thoſe who implacably hate their dread Soveraign Lord <hi>King Charls</hi> the <hi>Lords anointed,</hi> ſet over them, by <hi>God<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> command, and immedi<g ref="char:EOLhyphen"/>ate appointment, who is the moſt <hi>vertuous, moderate, wiſe, juſt,</hi> and <hi>incomparable Prince,</hi> that ever was, whoſe life they uſe all meanes to take away, and would eſteeme it their chief happineſſe to <hi>waſh their hands in the blood of him and his poſterity,</hi> you fight for them who are guilty of the blood of an hundred thouſand Soules, who loſt their lives for the maintenance of their <hi>monſtrous Rebel<g ref="char:EOLhyphen"/>lion,</hi> you fight for thoſe who would fain make themſelves a <hi>Free</hi> and abſolute <hi>State,</hi> and that done, to prey on all men without di<g ref="char:EOLhyphen"/>ſtinction, to doom whom they will for <hi>vaſſailes</hi> and whom they will to <hi>death,</hi> and that they may maintain their own <hi>luxurious ri<g ref="char:EOLhyphen"/>ot,</hi> and riot amongſt their <hi>concubines,</hi> will at their pleaſures com<g ref="char:EOLhyphen"/>mand your <hi>money</hi> and <hi>goods,</hi> yea, even to a penny, and to conclude you fight for thoſe, who when they have accompliſhed their ends, (as I hope they ſhall never doe) by your arme, will turn you off, and not owne you, take an occaſion to quarrell with you, and turn you to graſſe without a penny of your <hi>arreares,</hi> or ſo much as thanks, but I perceive that ſhould I uſe the moſt moving <hi>Oratorie,</hi> that it were poſſible to invent, or ſhould I give you never ſo many ſollid <hi>arguments,</hi> and <hi>unanſwerably</hi> prove my <hi>aſſertions,</hi> it were to aſmuch purpoſe as if I ſhould <hi>talke to mine own ſhadow,</hi> you are ti<g ref="char:EOLhyphen"/>ed to your <hi>deſteny,</hi> in inſeperable cords, and indeed it is but <hi>Iu<g ref="char:EOLhyphen"/>ſtice,</hi> that you and they ſhould fall together, in a ſure confidence whereof thus doe I dig your <hi>grave,</hi> large enough here, doubt it not to include an Army of ſuch as you are, the extent wherof is as wide as <hi>hell:</hi>
+               <q>
+                  <l>Come, Treaſon, murder, Regecide,</l>
+                  <l>And let Sedition be their guide:</l>
+                  <l>Come, luſt, Pride, and ambition,</l>
+                  <l>Schiſme, and Irreligion,</l>
+                  <l>Dig deepe even as low as Hell,</l>
+                  <l>Though you fright Pluto from his Cell,</l>
+                  <l>'Tis done, now Glemham, Lucas, and</l>
+                  <l>Langdale now in Westmorland,</l>
+                  <pb n="6" facs="tcp:161882:5"/>
+                  <l> Norwich, Lunsford, Capell, Poyer,</l>
+                  <l>Roborough, Laughorn, Powell, Dier,</l>
+                  <l>Thruſt the Rogues into the pit,</l>
+                  <l>The Kingdome ſees, and likes of it.</l>
+               </q>
+            </p>
+            <p>But now to the <hi>linſey woolſey Synod,</hi> that compound of the <hi>jer<g ref="char:EOLhyphen"/>kin</hi> and the <hi>gowne,</hi> who preach <hi>blaſphemy,</hi> print <hi>hereſie,</hi> and talk <hi>Treaſon,</hi> and yet have not had the power to doe it, though their <hi>Directory,</hi> taught the people to pray <hi>backwards,</hi> and their <hi>Cate<g ref="char:EOLhyphen"/>chiſmes,</hi> couzened them of their old <hi>creed,</hi> was there ever ſuch a <hi>conclave</hi> of <hi>ridiculous Rabbies</hi> as theſe are, ſince the time that <hi>Pope Ione</hi> was elected, who are ſo far from being a Synod, of able and orthodox Divines, duly &amp; lawfully called, by the <hi>Biſhops,</hi> &amp; <hi>Gover<g ref="char:EOLhyphen"/>nours</hi> of the <hi>Church,</hi> that they are a thin <hi>conventicle</hi> of <hi>factious mer<g ref="char:EOLhyphen"/>cenaries,</hi> whoſe trade it is, to ſooth up the <hi>Rebels</hi> in their impious undertakings, and to prove all paradoxes out of holy writ for 4<hi rend="sup">s.</hi> a day, a company of <hi>owles,</hi> who whoot nothing but <hi>Se<g ref="char:EOLhyphen"/>dition</hi> and <hi>Barbariſme,</hi> who honour <hi>Melvils precepts,</hi> above the law of <hi>Moſes,</hi> and preferre <hi>Calvin</hi> before <hi>Auſtin;</hi> deſiſt, deſiſt ye <hi>Apoſtated Shavelings,</hi> in the mean time give me leave, or I will take it to ſhake over you, this,
+<q>
+                  <lg>
+                     <head>WHIP and BELL:</head>
+                     <l>Grave Rabbies, let's have tother ſtory,</l>
+                     <l>Some new found nonſenſe Directory:</l>
+                     <l>You'l ſay the tother is enough,</l>
+                     <l>'Tis truth; unleſſe 'twere better ſtuffe,</l>
+                     <l>Alas we know not how to pray,</l>
+                     <l>By your long tail'd, <hi>&amp;c.</hi>
+                     </l>
+                     <l>Lawne ſleeves, will make you vomit, we</l>
+                     <l>Have — out, your Presbytery,</l>
+                     <l>Degenerate, who lie at lurch,</l>
+                     <l>For to orethrow our famous Church.</l>
+                     <l>Behold the Prelats muſt again,</l>
+                     <l>Sit next unto their Soveraign:</l>
+                     <l>Doe not you hear the Organs play,</l>
+                     <l>See you not tapers burn by day,</l>
+                     <l>All Ceremonies pure and holy,</l>
+                     <l>Reſtor'd: you laught at for your folly.</l>
+                  </lg>
+               </q>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
